@@ -1,0 +1,9 @@
+Package: me.cykey.forceblur
+Name: Force Blur
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Forces iOS to display blur on older devices
+Maintainer: David Murray (Cykey)
+Author: David Murray (Cykey)
+Section: Tweaks
